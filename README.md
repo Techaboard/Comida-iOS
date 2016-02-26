@@ -19,6 +19,6 @@ What Comida offers:
 
 BUILDING
 
-The project directory is ready for use with Android Studio. Credentials files will be shared separately.
+The project directory is ready for use with XCode. Credentials files will be shared separately.
 
 -- Instructions --
